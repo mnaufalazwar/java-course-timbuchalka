@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+D:\naufal\java-project\personal\udemy tim buchalka\.metadata\.plugins\org.eclipse.jdt.core
+3393012080.index
+3427755827.index
+826091302.index
+3010177751.index
+866874182.index
